@@ -1,0 +1,7 @@
+#Sat Feb 11 13:55:56 BRST 2017
+base.0=C\:\\Users\\Zoio\\Documents\\workspace\\MyAppZup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5b40babf947cbd8d8558e47f331afae9b82654b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zoio\\Documents\\workspace\\MyAppZup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1abf8bcf7350322b20b61c81a59901ab61ad0e1d\\classes.dex
+base.1=C\:\\Users\\Zoio\\Documents\\workspace\\MyAppZup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1abf8bcf7350322b20b61c81a59901ab61ad0e1d
+file.0=C\:\\Users\\Zoio\\Documents\\workspace\\MyAppZup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5b40babf947cbd8d8558e47f331afae9b82654b\\classes.dex
